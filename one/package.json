@@ -1,0 +1,12 @@
+{
+	"name": "ONE",
+	"version": "0.0.1",
+	"private": "true",
+	"dependencies": {
+		"express": "*",
+		"http": "0.0.0",
+		"mysql": "^2.18.1",
+		"socket.io": "*",
+		"socketio-file-upload": "^0.7.0"
+	}
+}
